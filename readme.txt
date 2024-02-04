@@ -1,0 +1,1 @@
+Start-Process -FilePath "https://aka.ms/vs/16/release/vs_buildtools.exe" -ArgumentList "--quiet --wait --norestart --nocache --installPath C:\BuildTools --add Microsoft.VisualStudio.Workload.VCTools --includeRecommended"
